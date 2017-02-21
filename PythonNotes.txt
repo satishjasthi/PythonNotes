@@ -1,0 +1,9 @@
+Source: Introduction to Python for Data Science ,Edx
+Python : 3
+
+Functions:
+In python optional arguments of the functions are represented as 
+
+def function(a1,[,b1]):
+
+here b1 is a optional argument
